@@ -1,0 +1,8 @@
+C:\Users\Man Atef\Desktop\program to find the perfect numbers from n1 to n2\program to find the perfect numbers from n1 to n2\bin\Debug\program to find the perfect numbers from n1 to n2.exe.config
+C:\Users\Man Atef\Desktop\program to find the perfect numbers from n1 to n2\program to find the perfect numbers from n1 to n2\bin\Debug\program to find the perfect numbers from n1 to n2.exe
+C:\Users\Man Atef\Desktop\program to find the perfect numbers from n1 to n2\program to find the perfect numbers from n1 to n2\bin\Debug\program to find the perfect numbers from n1 to n2.pdb
+C:\Users\Man Atef\Desktop\program to find the perfect numbers from n1 to n2\program to find the perfect numbers from n1 to n2\obj\Debug\program to find the perfect numbers from n1 to n2.csproj.AssemblyReference.cache
+C:\Users\Man Atef\Desktop\program to find the perfect numbers from n1 to n2\program to find the perfect numbers from n1 to n2\obj\Debug\program to find the perfect numbers from n1 to n2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Man Atef\Desktop\program to find the perfect numbers from n1 to n2\program to find the perfect numbers from n1 to n2\obj\Debug\program to find the perfect numbers from n1 to n2.csproj.CoreCompileInputs.cache
+C:\Users\Man Atef\Desktop\program to find the perfect numbers from n1 to n2\program to find the perfect numbers from n1 to n2\obj\Debug\program to find the perfect numbers from n1 to n2.exe
+C:\Users\Man Atef\Desktop\program to find the perfect numbers from n1 to n2\program to find the perfect numbers from n1 to n2\obj\Debug\program to find the perfect numbers from n1 to n2.pdb
